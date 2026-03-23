@@ -3,7 +3,7 @@
 
 Every card from every Pokemon TCG set organized as clean CSV files with card name, serial number, and rarity.
 
-**Browse the full [Pokemon card database](https://pokemon.tradingcarddex.com/database) with images, filters and and search completely free.**
+**Browse the full [Pokemon card database](https://pokemon.tradingcarddex.com/database) with images, filters and search completely free.**
 
 Maintained by [TradingCardDex](https://tradingcarddex.com), a multi-game trading card database covering Pokemon, Magic: The Gathering, Yu-Gi-Oh, and more.
 
@@ -15,9 +15,9 @@ This repository contains CSV files for every Pokemon TCG set ever released. Each
 
 | Field | Description |
 |-------|-------------|
-| `name` | Card name (e.g., Charizard ex, Pikachu VMAX) |
-| `serial` | Card number within the set (e.g., 006/165) |
-| `rarity` | Official rarity (Common, Uncommon, Rare, Ultra Rare, Secret Rare, etc.) |
+| `Name` | Card name (e.g., Charizard ex, Pikachu VMAX) |
+| `Number` | Card number within the set (e.g., 6/165) |
+| `Rarity` | Official rarity (Common, Uncommon, Rare, Ultra Rare, Secret Rare, etc.) |
 
 Sets are organized by series. Each directory is a series, individual files are the sets.
 
@@ -167,7 +167,7 @@ If you use this data in a project, attribution to [TradingCardDex.com](https://t
 | Southern Islands | `Other/Pokemon-Southern-Islands.csv` |
 | Legendary Collection | `Other/Pokemon-Legendary-Collection.csv` |
 | Best of Game | `Other/Pokemon-Best-of-Game.csv` |
-| Pokémon Rumble | `Other/Pokemon-Pokmon-Rumble.csv` |
+| Pokémon Rumble | `Other/Pokemon-Rumble.csv` |
 | McDonald's Collection 2011 | `Other/Pokemon-McDonalds-Collection-2011.csv` |
 | McDonald's Collection 2012 | `Other/Pokemon-McDonalds-Collection-2012.csv` |
 | McDonald's Collection 2014 | `Other/Pokemon-McDonalds-Collection-2014.csv` |
@@ -176,7 +176,7 @@ If you use this data in a project, attribution to [TradingCardDex.com](https://t
 | McDonald's Collection 2017 | `Other/Pokemon-McDonalds-Collection-2017.csv` |
 | McDonald's Collection 2018 | `Other/Pokemon-McDonalds-Collection-2018.csv` |
 | McDonald's Collection 2019 | `Other/Pokemon-McDonalds-Collection-2019.csv` |
-| Pokémon Futsal Collection | `Other/Pokemon-Pokmon-Futsal-Collection.csv` |
+| Pokémon Futsal Collection | `Other/Pokemon-Futsal-Collection.csv` |
 | McDonald's Collection 2021 | `Other/Pokemon-McDonalds-Collection-2021.csv` |
 | McDonald's Collection 2022 | `Other/Pokemon-McDonalds-Collection-2022.csv` |
 
@@ -213,7 +213,7 @@ If you use this data in a project, attribution to [TradingCardDex.com](https://t
 | Dragon Frontiers | `EX/Pokemon-Dragon-Frontiers.csv` |
 | Power Keepers | `EX/Pokemon-Power-Keepers.csv` |
 
-### NP (1 sets)
+### NP (1 set)
 
 | Set Name | File |
 |---|---|
@@ -350,7 +350,7 @@ If you use this data in a project, attribution to [TradingCardDex.com](https://t
 | Brilliant Stars Trainer Gallery | `Sword & Shield/Pokemon-Brilliant-Stars-Trainer-Gallery.csv` |
 | Astral Radiance | `Sword & Shield/Pokemon-Astral-Radiance.csv` |
 | Astral Radiance Trainer Gallery | `Sword & Shield/Pokemon-Astral-Radiance-Trainer-Gallery.csv` |
-| Pokémon GO | `Sword & Shield/Pokemon-Pokmon-GO.csv` |
+| Pokémon GO | `Sword & Shield/Pokemon-GO.csv` |
 | Lost Origin | `Sword & Shield/Pokemon-Lost-Origin.csv` |
 | Lost Origin Trainer Gallery | `Sword & Shield/Pokemon-Lost-Origin-Trainer-Gallery.csv` |
 | Silver Tempest | `Sword & Shield/Pokemon-Silver-Tempest.csv` |
