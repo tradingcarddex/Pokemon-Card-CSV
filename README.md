@@ -100,6 +100,7 @@ If you use this data in a project, attribution to [TradingCardDex.com](https://t
 - ⚙️ [GitHub](https://github.com/tradingcarddex/Pokemon-Card-CSV)
 - ▶️ [YouTube](https://www.youtube.com/@tradingcarddex)
 - 🔍 [Google](https://share.google/29KhJqD7Ubp6fCCMZ)
+- 📄 [Scibd]([https://share.google/29KhJqD7Ubp6fCCMZ](https://www.scribd.com/user/949762294/Trading-Card-Dex))
 
 ---
 
@@ -391,4 +392,4 @@ If you use this data in a project, attribution to [TradingCardDex.com](https://t
 
 ## License
 
-MIT — use this data however you want. Attribution to [TradingCardDex.com](https://tradingcarddex.com) is appreciated but not required
+MIT: use this data however you want. Attribution to [TradingCardDex.com](https://tradingcarddex.com) is appreciated but not required
