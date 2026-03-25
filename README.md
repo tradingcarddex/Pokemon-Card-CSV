@@ -101,6 +101,7 @@ If you use this data in a project, attribution to [TradingCardDex.com](https://t
 - ▶️ [YouTube](https://www.youtube.com/@tradingcarddex)
 - 🔍 [Google](https://share.google/29KhJqD7Ubp6fCCMZ)
 - 📄 [Scribd](https://www.scribd.com/user/949762294/Trading-Card-Dex)
+- 🔖 [Substack](https://tradingcarddex.substack.com/) 
 
 ---
 
