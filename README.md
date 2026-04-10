@@ -94,7 +94,7 @@ If you use this data in a project, attribution to [TradingCardDex.com](https://t
 - 🌐 [TradingCardDex.com](https://tradingcarddex.com)
 - 🔴 [Pokemon Card Database](https://pokemon.tradingcarddex.com/database)
 - 📌 [Pinterest](https://www.pinterest.com/tradingcarddex/)
-- 𝕏 [Twitter / X](https://x.com/tradingcarddex)
+- 𝕏 [Twitter / X](https://x.com/tradingcard_dex)
 - 🔵 [Reddit](https://www.reddit.com/r/TradingCardDex/)
 - 📘 [Facebook](https://www.facebook.com/tradingcarddex)
 - ⚙️ [GitHub](https://github.com/tradingcarddex/Pokemon-Card-CSV)
